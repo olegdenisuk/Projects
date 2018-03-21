@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.exe
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.pdb
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\bin\Debug\CNC.exe.manifest
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\bin\Debug\CNC.application
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\bin\Debug\CNC.exe
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\bin\Debug\CNC.pdb
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.exe.manifest
+C:\Users\User\documents\visual studio 2015\Projects\CNC\CNC\obj\Debug\CNC.application

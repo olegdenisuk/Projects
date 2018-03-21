@@ -1,0 +1,7 @@
+open "http://www.google.com" "3"
+checkPageTitle "Google"
+checkPageTitle "Hi"
+checkPageContains "Google.com"
+checkPageContains "Hiasdfsdghtyregt3erdgtfhyrgd"
+checkPageContains
+open "http://www.google.com"

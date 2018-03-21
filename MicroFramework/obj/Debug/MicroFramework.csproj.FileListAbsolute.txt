@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\MicroFramework.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\MicroFramework.exe
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\MicroFramework.pdb
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\obj\Debug\MicroFramework.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\obj\Debug\MicroFramework.exe
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\obj\Debug\MicroFramework.pdb
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\WebDriver.dll
+c:\users\user\documents\visual studio 2015\Projects\MicroFramework\MicroFramework\bin\Debug\WebDriver.xml
